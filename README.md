@@ -24,6 +24,7 @@ The dataset used in this project is sourced from the National Transportation Saf
 - **`EDA.ipynb`**: Exploratory Data Analysis notebook, detailing the initial exploration of the data, including data visualization and preliminary insights.
 - **`dataclean.ipynb`**: Data Cleaning notebook, showcasing the steps taken to clean and preprocess the data.
 - **`finalanalysis.ipynb`**: Final Analysis notebook, presenting the comprehensive analysis and actionable insights, including the top recommendations for aircraft safety.
+- **`presentation.pdf`**: Final slides for non-technical stakeholders presentation of my findings.
 
 ## Recommendations
 
